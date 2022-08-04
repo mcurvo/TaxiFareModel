@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mcurvo/code/mcurvo/TaxiFareModel/mlruns/1/b4a7a9fe81944b6bae535bf0f6603acd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: b4a7a9fe81944b6bae535bf0f6603acd
+run_uuid: b4a7a9fe81944b6bae535bf0f6603acd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1659638329347
+status: 1
+tags: []
+user_id: unknown
